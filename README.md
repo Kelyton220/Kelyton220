@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kelyton
-- 👀 I’m interested in ...DESENVOLVIMENTO FULL-STACK
+- 👀 I’m interested in ... Desevolvimento  em JavaScript
 - 🌱 I’m currently learning ...JAVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...EMAIL:KELYTON220@GMAIL.COM
